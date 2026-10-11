@@ -13,10 +13,10 @@ I'm an AI & Data Science engineer, graduated with honors from INSAT (Tunis). I d
 
 ## 🛠️ Tech I work with
 
-🧠 **GenAI & NLP:** LangGraph · LangChain · RAG · Sentence-Transformers · FAISS · Ollama (Mistral 7B, phi3:mini) · Groq API · HuggingFace · Prompt Engineering · DeepEval
-📈 **ML & DL:** PyTorch · TensorFlow/Keras · Scikit-learn · OpenCV
-📊 **Data & visualization:** Pandas · NumPy · Plotly · Matplotlib · Streamlit · Power BI
-💻 **Programming & databases:** Python · SQL · C/C++ · Java · FastAPI · SQLAlchemy · PostgreSQL (Supabase) · SQLite · SQL Server · Oracle · SAP ERP · Git
+- 🧠 **GenAI & NLP:** LangGraph · LangChain · RAG · Sentence-Transformers · FAISS · Ollama (Mistral 7B, phi3:mini) · Groq API · HuggingFace · Prompt Engineering · DeepEval
+- 📈 **ML & DL:** PyTorch · TensorFlow/Keras · Scikit-learn · OpenCV
+- 📊 **Data & visualization:** Pandas · NumPy · Plotly · Matplotlib · Streamlit · Power BI
+- 💻 **Programming & databases:** Python · SQL · C/C++ · Java · FastAPI · SQLAlchemy · PostgreSQL (Supabase) · SQLite · SQL Server · Oracle · SAP ERP · Git
 
 ## 📌 Selected projects
 
